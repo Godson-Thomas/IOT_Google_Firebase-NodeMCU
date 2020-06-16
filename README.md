@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A3.png" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A3.png" width="500">  <br>
 # ESP8266 To  GOOGLE FIREBASE
 ## ***Arduino IDE Setup*** :
 
@@ -140,4 +140,4 @@ delay(1000);
 ```
 
 23. In your Realtime Databse of Firebase you can see the changes<br><br>
- <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/18.png" width="400">
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/18..png" width="400">
