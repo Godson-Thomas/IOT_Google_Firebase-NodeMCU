@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/A.jpeg" width="200">  <br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A3.png" width="200">  <br>
 # ESP8266 To  GOOGLE FIREBASE
 ## ***Arduino IDE Setup*** :
 
@@ -10,51 +10,53 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
 
-* ***File*** >> ***Preferences*** >> Paste the Url into the *Additional Board Manager URLs*<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B.png" width="400"> <br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B3.png" width="400"> <br>
+* ***File*** >> ***Preferences*** >> Paste the Url into the *Additional Board Manager URLs*<br><br>
+<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B.png" width="400"> <br><br>
+<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B3.png" width="400"> <br><br>
 
-3. ***Tools*** >> ***Board*** >>***Boards Manager*** <br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B6.png" width="400"> <br>
+3. ***Tools*** >> ***Board*** >>***Boards Manager*** <br><br>
+<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B6.png" width="400"> <br><br>
 
-4. Type **esp8266** in the search bar and Install it.<br>
+4. Type **esp8266** in the search bar and Install it.<br><br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="600"> <br><br>
 
-5. Connect ESP8266 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br>
+5. Connect ESP8266 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br><br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
 
 6. Installing Firebase library<br>
  * [click here]() to download the library
  * Go to ***Sketch*** >> ***Include Library*** >> ***Add .ZIP Library*** >> Select the downloaded firebase library<br><br>
- <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/1.jpg" width="400"> <br><br>
  
  7. Installing ArduinoJson library
-* ***Sketch***  >>***Include Library*** >> ***Manage Libraries***  >> Type ***ArduinoJson***  >> Install a lower Version<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+* ***Sketch***  >>***Include Library*** >> ***Manage Libraries***<br><br>
+  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/2.png" width="400"> <br><br>
+*  Type ***ArduinoJson***  >> Install a lower Version<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/3.png" width="400"> <br><br>
 
 ## ***Google Firebase Setup*** :
 
-8. Open Google Firebase Website [link](https://firebase.google.com/)<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+8. Open Google Firebase Website [link](https://firebase.google.com/)<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/4.png" width="400"> <br><br>
 
 9. Sign in using your G-Mail
-10. click on ***Create a project***<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+10. click on ***Create a project***<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/6.png" width="400"> <br><br>
 
-11. Enter a Project Name and read & accept the terms<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+11. Enter a Project Name and read & accept the terms<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/7.png" width="400"> <br><br>
 
-12. Click on ***Continue***<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+12. Click on ***Continue***<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/8.png" width="400"> <br><br>
 
-13. Select ***Default Account for Firebase***<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+13. Select ***Default Account for Firebase***<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/9.jpg" width="400"> <br><br>
 
-14. Your Project will be created & loaded .Click on  ***Continue***<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+14. Your Project will be created & loaded .Click on  ***Continue***<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/11.png" width="400"> <br><br>
 
 ## ***Coding*** : 
-### [code]()
+### [code](https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/FIREBASE_NODE.ino)
 
 15.  Include necessary libraries
 ```
@@ -70,17 +72,17 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 <br>
 
-*  Open Firebase >> ***Database*** <br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+*  Open Firebase >> ***Database*** <br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/12.png" width="400"> <br><br>
 
-* ***choose Realtime database*** >> ***Create database***<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+* ***choose Realtime database*** >> ***Create database***<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/13.png" width="400"> <br><br>
 
-* ***Start in test mode*** >> ***click Enable***<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+* ***Start in test mode*** >> ***click Enable***<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/14.png" width="400"><br><br>
 
-* Copy your database URL <br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+* Copy your database URL <br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/14b.png" width="400">  <br><br>
 
 * Paste it in the Arduino code
 
@@ -88,13 +90,15 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 #define FIREBASE_AUTH "dTwHzZsYGaH4hoK5hr1NZvNdtXyeovgGQO2e3vut"
 ```
-* For this, click on ***Project Overview*** >> ***Project Settings***<br>
- <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+* For this, click on ***Project Overview*** >> ***Project Settings***<br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/15.png" width="400"> <br><br>
  
- * ***Service Accounts*** >> ***Database Secrets***<br>
- <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+ * click on ***Service Accounts*** <br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/16.png" width="400"> <br><br>
  
- * Copy the secret key and paste it in the Arduino code
+* click on ***Database Secrets***<br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/17.png" width="400"> <br><br>
+* Copy the secret key and paste it in the Arduino code
 
 18. Connect the ESP8266 to a WIFI-Hotspot by giving its SSID and Password
 ```
@@ -135,5 +139,5 @@ delay(5000);
 delay(1000);            
 ```
 
-23. In your Realtime Databse of Firebase you can see the changes<br>
- <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+23. In your Realtime Databse of Firebase you can see the changes<br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/18.png" width="400"> <br><br>
