@@ -50,7 +50,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/8.png" width="700"> <br><br>
 
 13. Select ***Default Account for Firebase***<br><br>
-<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/9.jpg" width="700"> <br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/9.jpg" width="800"> <br><br>
 
 14. Your Project will be created & loaded .Click on  ***Continue***<br><br>
 <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/11.png" width="600"> <br><br>
@@ -76,7 +76,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/12.png" width="200"> <br><br>
 
 * ***choose Realtime database*** >> ***Create database***<br><br>
-<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/13.png" width="700"> <br><br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/13.png" width="800"> <br><br>
 
 * ***Start in test mode*** >> ***click Enable***<br><br>
 <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/14.png" width="600"><br><br>
@@ -94,10 +94,10 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/15.png" width="700"> <br><br>
  
  * click on ***Service Accounts*** <br><br>
- <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/16.png" width="700"> <br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/16.png" width="800"> <br><br>
  
 * click on ***Database Secrets***<br><br>
- <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/17.png" width="700"> <br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/17.png" width="800"> <br><br>
 * Copy the secret key and paste it in the Arduino code
 
 18. Connect the ESP8266 to a WIFI-Hotspot by giving its SSID and Password
@@ -140,4 +140,4 @@ delay(1000);
 ```
 
 23. In your Realtime Databse of Firebase you can see the changes<br><br>
- <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/18.png" width="400"> <br><br>
+ <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/18.png" width="400">
