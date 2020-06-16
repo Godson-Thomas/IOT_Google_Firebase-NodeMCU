@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A3.png" width="500">  &nbsp; &nbsp; &nbsp;  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A1.jpg" width="300">  <br>
+<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A3.png" width="450">  &nbsp; &nbsp; &nbsp;  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/A1.jpg" width="300">  <br>
 # ESP8266 To  GOOGLE FIREBASE
 ## ***Arduino IDE Setup*** :
 
@@ -18,7 +18,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B6.png" width="400"> <br><br>
 
 4. Type **esp8266** in the search bar and Install it.<br><br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="450"> <br><br>
+<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="400"> <br><br>
 
 5. Connect ESP8266 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br><br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
