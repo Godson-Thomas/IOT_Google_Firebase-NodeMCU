@@ -18,7 +18,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B6.png" width="400"> <br><br>
 
 4. Type **esp8266** in the search bar and Install it.<br><br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="600"> <br><br>
+<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="450"> <br><br>
 
 5. Connect ESP8266 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br><br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
