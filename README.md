@@ -130,7 +130,7 @@ WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
 22. Senting data to Google Firebase
 ```
 Serial.print("CHECK the DATABASE"); 
-Firebase.setString("ROLL_NO_112","PIXER");
+Firebase.setString("ROLL_NO_112","PIXAR");
 delay(5000);
 Firebase.setString("ROLL_NO_12","AVA");
 delay(5000);
