@@ -40,7 +40,7 @@ void loop()
 
 
 Serial.print("Check the Google Firebase Database"); 
-Firebase.setString("ROLL_NO_112","PIXER");
+Firebase.setString("ROLL_NO_112","PIXAR");
 delay(5000);
 Firebase.setString("ROLL_NO_12","AVA");
 delay(5000);
