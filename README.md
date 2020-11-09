@@ -24,7 +24,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
 
 6. Installing Firebase library<br>
- * [click here]() to download the library
+ * [click here](https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/raw/master/Images/firebase-arduino-master.rar) to download the library
  * Go to ***Sketch*** >> ***Include Library*** >> ***Add .ZIP Library*** >> Select the downloaded firebase library<br><br>
  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/1.jpg" width="400"> <br><br>
  
